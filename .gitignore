@@ -1,3 +1,3 @@
-./ab_model_data.parquet
-./reco_model_data.parquet
+ab_model_data.parquet
+reco_model_data.parquet
 .DS_Store
